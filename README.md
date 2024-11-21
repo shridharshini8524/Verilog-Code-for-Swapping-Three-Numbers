@@ -48,6 +48,7 @@ module swap_three_numbers (
         c_out = a_in; // Swap: c = a
     end
 endmodule
+```
 
 output:
 
@@ -101,7 +102,7 @@ module swap_three_numbers_tb;
         #10 $stop;
     end
 endmodule
-```
+
 output:
 
 ![image](https://github.com/user-attachments/assets/de426800-6a16-46de-8a18-bafd75e056c8)
